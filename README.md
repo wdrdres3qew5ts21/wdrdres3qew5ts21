@@ -26,6 +26,17 @@ When free time I will spending time on drawing anime or reading fantasy fiction 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'> Medium Blog: wdrdres3qew5ts21](https://wdrdres3qew5ts21.medium.com) (DevOps & Cloud Native Topics)  
 
 
+##### Blog & Arcticle
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/1" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/2" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/3" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/4" alt="Recent Article 0">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdrdres3qew5ts21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
