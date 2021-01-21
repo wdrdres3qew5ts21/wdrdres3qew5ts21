@@ -36,6 +36,7 @@ When free time I will spending time on drawing anime or reading fantasy fiction 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/4" alt="Recent Article 4">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdrdres3qew5ts21&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <img src="https://rhtapps.redhat.com/certifications/badge/download/KES7HUGTZUQCAKYCSDXV4MATO4AEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=" alt="openshift" width="400"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdrdres3qew5ts21&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<img src="https://rhtapps.redhat.com/certifications/badge/download/KES7HUGTZUQCAKYCSDXV4MATO4AEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=" alt="openshift" width="400"/>
 
 
