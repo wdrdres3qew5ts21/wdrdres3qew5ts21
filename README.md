@@ -7,6 +7,7 @@ When free time I will spending time on drawing anime or reading fantasy fiction 
 
 ##### Certitifcation & Badge ✨✨✨
 <img src="https://rhtapps.redhat.com/certifications/badge/download/KES7HUGTZUQCAKYCSDXV4MATO4AEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=" alt="openshift" width="400"/>
+
 1. [Certified Kubernetes Admistrator](https://www.youracclaim.com/badges/56264f84-1f23-44a8-8296-f4dd4dac95c5)
 2. [Red Hat Container & Kubernetes Specialist](https://rhtapps.redhat.com/verify/?certId=210-007-423)
 2. [Certified Rancher Operator: Level 1](https://academy.rancher.com/certificates/815596f2b2014cfb9c90054fb336821c)
