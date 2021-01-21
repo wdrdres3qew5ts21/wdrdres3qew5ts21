@@ -25,7 +25,7 @@ When free time I will spending time on drawing anime or reading fantasy fiction 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> LinkedIn: Supakorn Trakulmaiphol](https://www.linkedin.com/in/supakorn-trakulmaiphol-55a325173/)      
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'> Medium Blog: wdrdres3qew5ts21](https://wdrdres3qew5ts21.medium.com) (DevOps & Cloud Native Topics)  
 
-![alt ](https://rhtapps.redhat.com/certifications/badge/download/KES7HUGTZUQCAKYCSDXV4MATO4AEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY= =250x)
+<img src="https://rhtapps.redhat.com/certifications/badge/download/KES7HUGTZUQCAKYCSDXV4MATO4AEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=" alt="openshift" width="250"/>
 ##### Blog & Arcticle
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wdrdres3qew5ts21/0" alt="Recent Article 0">
 
