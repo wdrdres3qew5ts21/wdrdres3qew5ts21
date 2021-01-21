@@ -6,7 +6,9 @@ New graduated student who loving in Cloud Native Landscape Technology also long 
 When free time I will spending time on drawing anime or reading fantasy fiction like Dungeon & Dragon or Warhammer 40k also had try some cosplay 😂😂😂
 
 ##### Certitifcation & Badge ✨✨✨
+<img src="https://rhtapps.redhat.com/certifications/badge/download/KES7HUGTZUQCAKYCSDXV4MATO4AEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=" alt="openshift" width="400"/>
 1. [Certified Kubernetes Admistrator](https://www.youracclaim.com/badges/56264f84-1f23-44a8-8296-f4dd4dac95c5)
+2. [Red Hat Container & Kubernetes Specialist](https://rhtapps.redhat.com/verify/?certId=210-007-423)
 2. [Certified Rancher Operator: Level 1](https://academy.rancher.com/certificates/815596f2b2014cfb9c90054fb336821c)
 3. [Azure Fundamental](https://www.youracclaim.com/badges/9480eadb-3557-4a66-89b3-676f3db8e21a?source=linked_in_profile)
 3. [IBM API Connect 2018](https://www.youracclaim.com/badges/8d0c2aed-790f-4b70-bca2-7032bcac7ef3?source=linked_in_profile)
@@ -38,6 +40,5 @@ When free time I will spending time on drawing anime or reading fantasy fiction 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdrdres3qew5ts21&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-<img src="https://rhtapps.redhat.com/certifications/badge/download/KES7HUGTZUQCAKYCSDXV4MATO4AEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=" alt="openshift" width="400"/>
 
 
