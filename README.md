@@ -1,5 +1,5 @@
 ### Cloud Native Enthusiast !
-![Cloud Native](https://media-exp1.licdn.com/dms/image/C5616AQHtNJHs7bufgA/profile-displaybackgroundimage-shrink_350_1400/0/1599328954701?e=1623283200&v=beta&t=STv669TQY-FbTxD056Aw3iNa8cnAo-fNefltwinGXGE)
+![Cloud Native](https://www.ibm.com/events/think/srcfiles/images/think-og.jpg)
 
 New graduated student who loving in Cloud Native Landscape Technology also long life learning and want to sharing his passion with his team to make the team can overcome any obstrucle together. 🥰🥰🥰
 
